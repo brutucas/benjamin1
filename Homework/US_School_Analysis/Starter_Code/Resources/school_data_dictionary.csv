@@ -1,0 +1,79 @@
+Fields,Field Descriptions
+OBJECTID,OBJECTID
+Shape,Shape
+NCESSCH,Unique School ID
+SURVYEAR,Year corresponding to survey record
+STABR,Postal state abbreviation code
+LEAID,NCES Agency ID
+ST_LEAID,State Local Education Number
+LEA_NAME,Education Agency Name
+SCH_NAME,School name
+LSTREET1,Location address street 1
+LSTREET2,Location address street 2
+LCITY,Location city
+LSTATE,Location state
+LZIP,Location 5 digit ZIP code
+LZIP4,Location Secondary ZIP code
+PHONE,Telephone number
+CHARTER_TEXT,Whether a Charter School
+MAGNET_TEXT,Magnet school indicator
+VIRTUAL,Virtual School Status
+GSLO,Grades Offered - Lowest
+GSHI,Grades Offered - Highest
+SCHOOL_LEVEL,School level
+TITLEI,Title I Eligible
+STITLEI,School-wide Title I
+STATUS,Start of year status (code)
+SCHOOL_TYPE_TEXT,School type (description)
+SY_STATUS_TEXT,Start of year Status (description)
+ULOCALE,Locale Code
+NMCNTY,County Name
+TOTFRL,Total of free lunch and reduced-price lunch eligible
+FRELCH,Free Lunch Program
+REDLCH,Reduced-Lunch Program
+PK,Prekindergarten students
+KG,Kindergarten students
+G01,Grade 1 students
+G02,Grade 2 students
+G03,Grade 3 students
+G04,Grade 4 students
+G05,Grade 5 students
+G06,Grade 6 students
+G07,Grade 7 students
+G08,Grade 8 students
+G09,Grade 9 students
+G10,Grade 10 students
+G11,Grade 11 students
+G12,Grade 12 students
+G13,Grade 13 students
+UG,Ungraded students
+AE,Adult Education Students
+TOTMENROL,Total Male Enrollment
+TOTFENROL,Total Female Enrollment
+TOTAL,Total students all grades (includes AE)
+MEMBER,Total elementary/secondary students (excludes AE)
+FTE,Total Teachers
+STUTERATIO,Student teacher ratio
+AMALM,All Students - American Indian/Alaska Native - Male
+AMALF,All Students - American Indian/Alaska Native - Female
+AM,All Students - American Indian/Alaska Native
+ASALM,All Students - Asian - Male
+ASALF,All Students - Asian - Female
+AS,All Students - Asian
+BLALM,All Students - Black or African American - Male
+BLALF,All Students - Black or African American - Female
+BL,All Students - Black or African American
+HPALM,All Students - Native Hawai'ian or Other Pacific Islander - Male
+HPALF,All Students - Native Hawai'ian or Other Pacific Islander - Female
+HP,All Students - Native Hawai'ian or Other Pacific Islander
+HIALM,All Students - Hispanic - Male
+HIALF,All Students - Hispanic - Female
+HI,All Students - Hispanic
+TRALM,All Students - Two or More Races - Male
+TRALF,All Students - Two or More Races - Female
+TR,All Students - Two or More Races
+WHALM,All Students - White - Male
+WHALF,All Students - White - Female
+WH,All Students - White
+LATCOD,Latitude
+LONCOD,Longitude
